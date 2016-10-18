@@ -214,7 +214,7 @@ public class PA3 {
         
         Vector3f light = new Vector3f(10.0f, 10.0f, 10.0f);
         Vector3f angle = new Vector3f(-Camera.rotation.x, -Camera.rotation.y, -Camera.rotation.z);
-        light = rotate(angle, light); //有错误，要用逆旋转，先z轴、再y轴、再x轴
+        light = rotate(angle, light);
         shader.setUniform3f("lightPos", light.x, light.y, light.z);
         
         
