@@ -17,13 +17,6 @@ For the user interface, press KEY_1 to set the Phong reflection model shader and
 
 Welcome to continue to see my showcase movie on https://youtu.be/PeST53HvTvE!
 
-
-
-
-
-
-
-
 Interactions
 Keyboard:
        KEY	                                 Function
