@@ -37,7 +37,7 @@ Keyboard:
       SPACE	                   Move the camera view point upward
       SHIFT	                   Move the camera view point downward
        Esc	                   Close the window
-        P	                     Take a snapshot
+        P	                     Take a snapshot 
 
 Mouse:
 LeftButton: Rotate the angle of view
