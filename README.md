@@ -1,6 +1,6 @@
-                                             Computer Graphics Project Description
-                                                       3D Object Shading
-                                          Programming application: Java, OpenGL, GLSL
+                                           Computer Graphics Project Description
+                                                    3D Object Shading
+                                         Programming application: Java, OpenGL, GLSL
                                               
 In this project, I implemented Gouraud shader, Blinn-Phong shading model and Checkerboard texture using GLSL shading language. 
 To start with, I used Blender to draw a 3D table model and imported the mesh triangle vertices and normals information into java to color the fragments with shading effects in the fragment shader.
